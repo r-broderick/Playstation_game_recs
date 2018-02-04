@@ -1,7 +1,7 @@
 # Playstation_game_recs
 Code for building a recommender system using Playstation trophies
 
-The files psn_profiles_list_k.txt, for k = 1, 2, 3, are lists of Playstation Network users and games that they have trophies for. Each line has the format
+The files psn_profiles_list_k.txt, for k = 1, 2, 3, are lists of Playstation Network users and games that they have trophies for. Each tab-separated line has the format
 
 user  game  trophy_rank
 
